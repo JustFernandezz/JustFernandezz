@@ -58,10 +58,10 @@
 
 <br/>
 
-<h3 align="center">God of War</h3>
 
 <p align="center">
   <img src="https://github.com/JustFernandezz/JustFernandezz/blob/main/230720-kevin-mitnick-mn-1525-aaab7a.jpg" width="400" />
+  <img src="https://github.com/JustFernandezz/JustFernandezz/blob/main/kratos-god-of-war-3.jpg" width="400" />
 </p>
 
 <br/>
