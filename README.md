@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  I'm Fernandez (aka Cyb3lnkuei). I like breaking and securing web apps, APIs, networks,<br/>
-  Active Directory, and wireless systems. Outside of that, I enjoy bug hunting,<br/>
-  gaming, and building hardware hacking projects.
+  I’m Fernandez (aka Cyb3lnkuei), an offensive security enthusiast focused on testing and securing web applications, APIs, networks, Active Directory, and wireless systems. Outside of that, I enjoy bug hunting, gaming, and building hacking projects.<br/>
+ 
 </p>
 
 <h3 align="center">~ Fernandez ~</h3>
