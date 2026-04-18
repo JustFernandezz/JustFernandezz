@@ -17,7 +17,9 @@
 
 <h3 align="center">I use</h3>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=kali" /></p>
+<p align="center">
+   <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="80" />
+</p> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
