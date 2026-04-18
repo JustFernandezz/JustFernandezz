@@ -60,12 +60,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/JustFernandezz/JustFernandezz/blob/main/230720-kevin-mitnick-mn-1525-aaab7a.jpg" width="400" />
-  <img src="https://github.com/JustFernandezz/JustFernandezz/blob/main/kratos-god-of-war-3.jpg" width="400" />
+  <img src="https://github.com/JustFernandezz/JustFernandezz/blob/main/230720-kevin-mitnick-mn-1525-aaab7a.jpg" width="600" />
+  <img src="https://github.com/JustFernandezz/JustFernandezz/blob/main/kratos-god-of-war-3.jpg" width="600" />
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustFernandezz&show_icons=true&theme=matrix" />
-</p>
